@@ -26,7 +26,7 @@ These are Custom Map Addons that i have made. These are only to Improve RP Exper
 start mapaddons
 ```
 # esx_doorlock Gates:
-
+```
 	-- Zancudo Military Base Front Entrance
 {
 	objName = 'prop_gate_airport_01',
@@ -182,6 +182,7 @@ start mapaddons
 	distance = 25,
 	size = 2
 },
+```
 
 # Other:
 If you like this please check out some of my other stuff like
